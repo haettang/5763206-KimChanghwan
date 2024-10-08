@@ -120,12 +120,10 @@ int main() {
     TreeNode* root = GenerateBinaryTree(inputData, size);
     printf("Binary tree inorder: ");
     BinaryTreeInOrder(root);
-    printf("\n");
 
     ThreadTreeNode* troot = GenerateThreadTree(root);
-    printf("Thread tree inorder: ");
+    printf("\nThread tree inorder: ");
     ThreadTreeInOrder(troot);
-    printf("\n");
 
     free(root);
     free(troot);
