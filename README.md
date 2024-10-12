@@ -1,2 +1,2 @@
 # Max HEap Tree {Result Image}
-![].(./heaptree.png)
+![](./heaptree.png)
