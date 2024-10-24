@@ -1,2 +1,2 @@
 # PRIM MST
-![](.primmst.png)
+![](./primmst.png)
