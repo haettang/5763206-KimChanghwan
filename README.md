@@ -1,2 +1,2 @@
-# MST
-![](./findmst.png)
+# PRIM MST
+![](.primmst.png)
