@@ -1,2 +1,2 @@
-# BFS & DFS
-![](./DFSBFS.png)
+# MST
+![](./findmst.png)
